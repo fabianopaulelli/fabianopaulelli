@@ -58,3 +58,5 @@ Let's get in touch!
 [![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabianocpaulelli/)
 
 [![visitor](https://function-4-5m5vpadgfq-uc.a.run.app/vistor.svg)](#)
+
+[![visitor](https://function-5-5m5vpadgfq-uc.a.run.app/vistor.svg)](#)
