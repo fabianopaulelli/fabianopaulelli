@@ -1,4 +1,7 @@
 # Hi there 👋
+<p align="center">
+	<img src="https://function-4-5m5vpadgfq-uc.a.run.app/vistor.svg">
+</p>
 
 The idea for creating this GitHub Portfolio is to... - ok, I'm not going to make you fool, the main idea is to showcase my profile, but also... - put in codes some skills I've worked on, recreate some projects with other tech stacks, try to reproduce real-cases scenarios for subjects in the web and to share some knowledge (I love that!). Finally, I think I'll start to create a public space in this repo where I can share some great things I've solved in my days.
 
